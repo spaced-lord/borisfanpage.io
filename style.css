@@ -1,0 +1,57 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background: rgb(240, 103, 88);
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+
+header {
+    font-size: 100px;
+    padding: 20px;
+    margin: 20px;
+    color: #621BA9;
+}
+
+#main {
+    font-size: 32px;
+    float: left;
+    width: 100%;
+    padding: 20px;
+    background: #621BA9;  
+}
+
+.double-neck {
+    float: right;
+    margin-top: 20px;
+    width: 600px;
+    height: 400px;
+    border: 50px solid #621BA9;
+}
+
+#members {
+    font-size: 40px;
+    float: left;
+    width: 50%;
+    border: 20px solid rgb(240, 103, 88);
+    background: #621BA9;
+}
+
+#video-embed{
+    margin-right: 175px;
+    float: right;
+    border: 20px solid rgb(240, 103, 88);
+}
+
+a {
+    color: #621BA9;
+}
+
+
+
+
+
+
