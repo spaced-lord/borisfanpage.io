@@ -31,7 +31,10 @@ body {
 }
 
 header {
-    font-size: 100px;
+    font-family: 'HortaRegular';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 200px;
     width: auto;
     padding: 20px;
     color: purple;
